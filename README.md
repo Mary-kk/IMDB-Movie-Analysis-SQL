@@ -10,7 +10,7 @@ The project is organized as follows:
 - **dataset.csv**: The raw IMDB movie dataset used for analysis.
 - **analysis.sql**: SQL queries used for data analysis and to answer the key questions.
 - **insights.md**: Summary of insights derived from running the queries, with an explanation of the findings.
-- **visualization.png** (optional): Visual representations (e.g., charts, graphs) of the analysis results.
+
 
 ## Data Cleaning and Preprocessing
 - **Removed duplicates**
@@ -64,13 +64,6 @@ David Yates leads the list with the highest average rating, reflecting his consi
 - ## **Most Popular Genres by Year**
   
 - ## **Can Rating, Votes, or Metascore Predict Movie Success (Revenue)?**
-
-## Visualizations
-Using the cleaned and processed dataset, I generated several visualizations to communicate the insights visually.
-
-- **Top-Rated Movies by Genre**
-- **Genre Rating Trend Over the Years**
-- **Revenue vs. Rating for Movies**
   
 ## Skills Demonstrated
 
